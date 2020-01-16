@@ -3,10 +3,6 @@ package emoji
 import (
 	"encoding/json"
 	"fmt"
-	"io/ioutil"
-	"os"
-	"path"
-	"runtime"
 	"strings"
 
 	"github.com/tmdvs/Go-Emoji-Utils/utils"
